@@ -1,0 +1,6 @@
+aws-cdk.core>=1.134.0
+aws-cdk.assertions>=1.134.0
+aws_cdk.aws-iam>=1.134.0
+aws_cdk.aws-eks>=1.134.0
+aws_cdk.aws_ec2>=1.134.0
+pyyaml
